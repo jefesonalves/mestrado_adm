@@ -31,8 +31,9 @@ valor_y = np.array([], np.int16)
 valor_z = np.array([], np.int16)
 
 # Construção das colunas
+titulo = "Simulação de Monte Carlo com um array de X e Y gerados."
 print("-" * 85)
-print(f"{' ' * 14}Simulação de Monte Carlo com um array de X e Y gerados.")
+print(f"{titulo:^85}")
 print("-" * 85)
 print("" * 85)
 print("-" * 85)
